@@ -1,3 +1,4 @@
 # OnlineStore
-NATIVE JS ES6
-BIKE STORE 
+всех приветстувую ) 
+посмотреть магазина на nativeJS ES6 
+https://sergeyfrontend.github.io/OnlineStore/
